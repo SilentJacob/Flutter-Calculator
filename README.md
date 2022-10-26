@@ -1,18 +1,12 @@
 # calculator
 
-A new Flutter project.
+My first flutter project!
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+If math expressions shows an error, install it manually with this command:
 
-A few resources to get you started if this is your first Flutter project:
+$ flutter pub add math_expressions
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# calculator_flutter
-# calculator_flutter
+
